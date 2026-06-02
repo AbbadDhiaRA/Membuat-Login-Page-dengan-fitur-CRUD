@@ -1,0 +1,7 @@
+Goals Abee Semester 2 :
+
+- Menguasai JavaScript
+- Menguasai OOP PHP
+- Menguasai MVC
+- Menguasai Laravel
+- Menguasai Akuntansi
